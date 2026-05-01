@@ -22,3 +22,20 @@ pip install -r requirements.txt
 
 **3. Run the simulation
 python main.py
+
+
+⚙️ Configuration
+You can easily modify clinical scenarios by tweaking the constants at the top of main.py:
+
+STEN_SEVERITY: Change the narrowing percentage (e.g., 0.62 for 62% stenosis).
+
+HEART_RATE: Adjust the BPM (e.g., 120 for exercise).
+
+MU: Adjust blood viscosity to simulate conditions like anemia.
+
+🛠 Tech Stack
+Python 3.10+
+
+NumPy: Numerical arrays and physics calculations
+
+Matplotlib: Real-time rendering and FuncAnimation

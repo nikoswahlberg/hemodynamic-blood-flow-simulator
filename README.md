@@ -41,10 +41,6 @@ You can easily modify clinical scenarios by tweaking the constants at the top of
 - **NumPy**: Numerical arrays and physics calculations
 - **Matplotlib**: Real-time rendering and animation
 
-## 📚 Documentation
-
-For more detailed information about the physics and methodology, refer to the project documentation.
-
 ## 👤 Author
 
 Created by **Nikos Wahlberg**

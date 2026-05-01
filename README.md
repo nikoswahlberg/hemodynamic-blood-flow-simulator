@@ -13,7 +13,7 @@ A high-performance Python simulation of pulsatile blood flow through a narrowed 
 ## 🚀 Quick Start
 
 **1. Clone the repository & enter the directory**
-```bash
+
 git clone [https://github.com/yourusername/bloodflow_miniproject.git](https://github.com/yourusername/bloodflow_miniproject.git)
 cd bloodflow_miniproject
 

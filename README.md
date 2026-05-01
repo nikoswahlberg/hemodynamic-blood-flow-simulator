@@ -47,8 +47,4 @@ For more detailed information about the physics and methodology, refer to the pr
 
 ## 👤 Author
 
-Created by **Nikos Wahlberg** — MSc Advanced Energy Solutions, Aalto University
-
-## 📝 License
-
-[Add appropriate license - MIT, Apache, etc.]
+Created by **Nikos Wahlberg**

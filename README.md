@@ -16,10 +16,10 @@ A high-performance Python simulation of pulsatile blood flow through a narrowed 
 ```bash
 git clone [https://github.com/yourusername/bloodflow_miniproject.git](https://github.com/yourusername/bloodflow_miniproject.git)
 cd bloodflow_miniproject
-
+```text
 2. Install dependencies
 
-Bash
+```bash
 pip install -r requirements.txt
 3. Run the simulation
 
